@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
