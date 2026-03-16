@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
