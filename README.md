@@ -13,10 +13,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0292-nim-game](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
+| [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -59,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 <!---LeetCode Topics End-->
