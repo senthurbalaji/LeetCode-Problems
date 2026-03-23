@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0561-array-partition](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
