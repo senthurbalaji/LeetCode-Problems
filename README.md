@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0292-nim-game](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
@@ -96,4 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
