@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0183-customers-who-never-order/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
