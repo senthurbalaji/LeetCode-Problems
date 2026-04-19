@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0695-max-area-of-island/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0695-max-area-of-island](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -166,4 +168,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
