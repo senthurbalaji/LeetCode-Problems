@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0016-3sum-closest/) | Medium |
+| [0031-next-permutation](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0016-3sum-closest/) | Medium |
+| [0031-next-permutation](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
