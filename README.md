@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0016-3sum-closest/) | Medium |
 | [0031-next-permutation](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0061-rotate-list](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0092-reverse-linked-list-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
