@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0205-isomorphic-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0496-next-greater-element-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0839-similar-string-groups](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0839-similar-string-groups/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0205-isomorphic-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0839-similar-string-groups](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0839-similar-string-groups/) | Hard |
