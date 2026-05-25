@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0205-isomorphic-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0205-isomorphic-strings/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0839-similar-string-groups](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0839-similar-string-groups/) | Hard |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2540-minimum-common-value](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
