@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2129-capitalize-the-title](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2129-capitalize-the-title/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
