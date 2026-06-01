@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Matrix
@@ -74,11 +75,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0016-3sum-closest/) | Medium |
 | [0561-array-partition](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
