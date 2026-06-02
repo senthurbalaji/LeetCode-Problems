@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0089-gray-code](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0089-gray-code/) | Medium |
 | [0292-nim-game](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 ## String
@@ -177,10 +178,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0089-gray-code/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0089-gray-code/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
