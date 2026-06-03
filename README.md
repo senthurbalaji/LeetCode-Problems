@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -231,5 +232,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2413-smallest-even-multiple](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
