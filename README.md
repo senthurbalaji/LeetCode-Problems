@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1323-maximum-69-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [0695-max-area-of-island](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0839-similar-string-groups](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0839-similar-string-groups/) | Hard |
+| [0989-add-to-array-form-of-integer](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
