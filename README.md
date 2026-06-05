@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0016-3sum-closest/) | Medium |
 | [0561-array-partition](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Counting Sort
