@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0839-similar-string-groups](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0839-similar-string-groups/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [2043-simple-bank-system](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2043-simple-bank-system/) | Medium |
 | [2540-minimum-common-value](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2043-simple-bank-system](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2043-simple-bank-system/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
+| [2043-simple-bank-system](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2043-simple-bank-system/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [2043-simple-bank-system](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2043-simple-bank-system/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
