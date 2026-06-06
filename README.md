@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0496-next-greater-element-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0839-similar-string-groups](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0839-similar-string-groups/) | Hard |
+| [1015-smallest-integer-divisible-by-k](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1323-maximum-69-number](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1323-maximum-69-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
