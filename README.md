@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0089-gray-code](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0089-gray-code/) | Medium |
+| [0263-ugly-number](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
