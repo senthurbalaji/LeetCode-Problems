@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2043-simple-bank-system/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [2043-simple-bank-system](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2043-simple-bank-system/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
