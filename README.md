@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2043-simple-bank-system](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2043-simple-bank-system/) | Medium |
 | [2540-minimum-common-value](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Matrix
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
