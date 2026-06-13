@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2129-capitalize-the-title](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2129-capitalize-the-title/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2043-simple-bank-system](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2043-simple-bank-system/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
