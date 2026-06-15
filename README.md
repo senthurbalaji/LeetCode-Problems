@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1017-convert-to-base-2](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1017-convert-to-base-2/) | Medium |
 | [1323-maximum-69-number](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1323-maximum-69-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
