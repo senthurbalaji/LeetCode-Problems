@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-even-multiple](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2544-alternating-digit-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
