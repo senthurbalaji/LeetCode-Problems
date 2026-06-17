@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
+| [0812-largest-triangle-area](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1017-convert-to-base-2](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1017-convert-to-base-2/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [0695-max-area-of-island](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0695-max-area-of-island/) | Medium |
+| [0812-largest-triangle-area](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0839-similar-string-groups](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0839-similar-string-groups/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -291,4 +293,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
