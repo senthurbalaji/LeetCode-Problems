@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1323-maximum-69-number](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1323-maximum-69-number/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1840-maximum-building-height/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -150,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
