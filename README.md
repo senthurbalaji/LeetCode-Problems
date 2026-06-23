@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2129-capitalize-the-title](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2129-capitalize-the-title/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Database
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
