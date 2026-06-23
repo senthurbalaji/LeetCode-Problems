@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0205-isomorphic-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 ## Brainteaser
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0016-3sum-closest](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0016-3sum-closest/) | Medium |
 | [0031-next-permutation](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
