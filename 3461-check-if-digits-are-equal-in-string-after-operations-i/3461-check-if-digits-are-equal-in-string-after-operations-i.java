@@ -8,7 +8,6 @@ class Solution {
                 sb.append((num1+num2)%10);
             }
             s=sb.toString();
-            System.out.println(s);
         }
         return s.charAt(0)==s.charAt(1);
     }
