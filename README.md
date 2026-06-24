@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2485-find-the-pivot-integer](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2129-capitalize-the-title](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2129-capitalize-the-title/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Database
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2427-number-of-common-factors/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,4 +328,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 <!---LeetCode Topics End-->
