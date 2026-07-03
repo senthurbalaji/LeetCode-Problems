@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0415-add-strings](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/0566-reshape-the-matrix/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2043-simple-bank-system](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2043-simple-bank-system/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/senthurbalaji/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
